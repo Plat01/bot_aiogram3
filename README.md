@@ -1,0 +1,1 @@
+It is bot where i will try features of aiogram3 
